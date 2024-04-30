@@ -1,0 +1,12 @@
+ALUNOS
+Atributos: Id, RA, Nome, Sobrenome, Curso
+
+PROFESSORES:
+Atributos: Id, CPF, Nome, Sobrenome, Curso
+
+CURSOS:
+Atributos: Id, Título
+
+RELACIONAMENTOS:
+Alunos participam de cursos
+Professores ministram cursos
